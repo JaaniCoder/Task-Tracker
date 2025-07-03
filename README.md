@@ -53,7 +53,7 @@ npm run dev
 ---
 
 ## 🌐 Live Demo
-[🔗 Live Application]()
+[🔗 Live Application](https://task-tracker-sepia-sigma.vercel.app/)
 
 ---
 
